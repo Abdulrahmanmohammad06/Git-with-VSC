@@ -1,1 +1,3 @@
 Hi Every On I'm File B.txt. 
+The Sec Line In File B.txt .
+
